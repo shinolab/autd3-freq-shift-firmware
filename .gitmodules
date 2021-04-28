@@ -1,0 +1,6 @@
+[submodule "fpga"]
+	path = fpga
+	url = https://github.com/shinolab/autd3-freq-shift-fpga.git
+[submodule "cpu"]
+	path = cpu
+	url = https://github.com/shinolab/autd3-freq-shift-cpu.git
