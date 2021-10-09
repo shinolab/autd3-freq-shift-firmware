@@ -1,6 +1,6 @@
 # README
 
-Version: 0.1.0-freq-shift
+Version: 0.2.0-freq-shift
 
 * This is a repository of AUTD3-freq-shift firmware, which contains the code for the FPGA and the CPU board (AP-RZT-0A)
     * However, some CPU codes contain proprietary parts and are therefore omitted.
